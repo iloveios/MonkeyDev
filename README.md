@@ -196,3 +196,10 @@ sudo /opt/MonkeyDev/bin/md-uninstall
 | 个人微信 · AloneMonkey | 微信公众号 |
 | :---: | :---: |
 | <img src="assets/wechat-personal.jpg" alt="AloneMonkey 个人微信二维码" width="280" /> | <img src="assets/wechat-official-account.png" alt="微信公众号关注二维码" width="280" /> |
+
+<a href="https://hotrepo.ai/zh/AloneMonkey/MonkeyDev?utm_source=github-readme&utm_medium=chart">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://hotrepo.ai/AloneMonkey/MonkeyDev/star-history.svg?style=avatar&lang=zh&theme=dark">
+    <img alt="AloneMonkey/MonkeyDev 的 Star 增长" src="https://hotrepo.ai/AloneMonkey/MonkeyDev/star-history.svg?style=avatar&lang=zh">
+  </picture>
+</a>
